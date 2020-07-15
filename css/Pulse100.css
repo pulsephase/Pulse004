@@ -1,0 +1,35 @@
+html{
+	font-family:Arial;
+}
+h1{
+font-size:1.4em;
+color:rgb(49,215,163);
+}
+h2{
+text-align:center;
+font-size:1em;
+color:rgb(49,215,163);
+}
+h3{
+font-size:1.5em;
+color:rgb(49,215,215);
+}
+h4{
+	text-align:center;
+font-size:1em;
+color:rgb(49,215,163);
+}
+h5{
+	font-size:0.8em;
+	color:rgb(249,59,254);
+}
+.sovereignSearch{
+	width:65%;
+	height:1.8em;
+	font-size:1.5em;
+	border-bottom:rgb(49,215,163) 2px solid; 
+	border-right:rgb(49,215,163) 0px solid; 
+	border-top:rgb(49,215,163) 2px solid; 
+	border-left:rgb(49,215,163) 0px solid; 
+	border-radius:5%;
+}
